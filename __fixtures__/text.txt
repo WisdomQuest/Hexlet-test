@@ -1,0 +1,2 @@
+One common variant of one true brace style is called Stroustrup
+
